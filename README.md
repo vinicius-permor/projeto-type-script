@@ -1,0 +1,1 @@
+# projeto-type-script
